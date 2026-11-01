@@ -23,8 +23,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Custom", // required by Discord API, not shown in the client
-        state: "RavageSMP soon??",     // this is what people actually see
+        name: "4", // required by Discord API, not shown in the client
+        state: "🔥Best Helper",     // this is what people actually see
         type: 0,               // Custom
       },
     ],
